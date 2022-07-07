@@ -1,0 +1,66 @@
+
+body{
+  background-color: grey;
+}
+
+footer, .pie  {
+  margin: 10px;
+  padding: 5px;
+  background-color: blue;
+  text-align: right;
+  
+  width: auto;
+  height: 60px;
+}
+
+form {
+  text-align: right;
+}
+
+
+nav {
+  margin: 10px;
+  padding: 0px;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  
+  align-content: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.boton {
+    
+    margin: 10px;
+    padding: 5px;
+    text-decoration: none; 
+    border-style: solid ;
+    border-width: 5px 10px;
+    
+}
+
+button {
+  background-color: blueviolet;
+  transition: background-color .30s;
+  
+}
+
+button:hover {
+  color: orange;
+}
+
+input:hover {
+  color: orange;
+}
+
+ h3 {
+   color: orange;
+   text-align: center;
+ } 
+ 
+ 
+
+
