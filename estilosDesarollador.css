@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&family=Rubik+Moonrocks&display=swap');
+
+#cabecera{
+    color: gold;
+    background-color:grey;
+    width: auto;
+    height: 50px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Rubik Moonrocks', cursive;
+}
+
+
+#formacion{
+    color: aliceblue;
+    background-color: blue;
+    text-align: center;
+}
+
+#desarollo{
+    background-color: cornflowerblue;
+    color: green;
+}
+
+#dev2{
+    color: aqua;
+    background-color: antiquewhite;
+}
+
+*{
+    background: grey;
+}
+
+#itla{
+    color: aliceblue;
+}
+
+#platzi{
+    color: aquamarine;
+}
+
+ #alura{
+    color: beige;
+ }
+  
+#cetep{
+    color: blanchedalmond;
+}
+
+#mescyt{
+    color: darkgray;
+}
+
